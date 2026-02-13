@@ -32,7 +32,7 @@ WATCHING = İZLİYOR
 STREAMING = YAYINDA*/
   
 sqarlex1.on('ready', ()=>{
-  sqarlex1.channels.get('ses kanal id').join()
+  sqarlex1.channels.get('1459734608928313374').join()
   console.log(`[Aktif] - ${sqarlex1.user.tag} 1 numaralı hesap aktif.`) 
   sqarlex1.user.setActivity('Spotify', {"type": "LISTENING"});
 });
