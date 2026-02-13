@@ -13,7 +13,8 @@ const sqarlex7 = new Discord.Client();
 // Aktif edilecek token sayısına göre arttırabilirsiniz. Eğer yukarıyı arttırırsanız aynı şekilde aşşağıyıda arttırmanız gerekir.
 // Tokenleri tırnakların -> "" arasına yaz.
 
-sqarlex1.login("sqarlex token 1");
+sqarlex1.login("MTM4NTkwMDIzOTIwNTk1NzcxNzcxeMg.GGNF6F.Pj3p-Ms72PQ4evW9JRpKkfWKa8EkTlSuHiZbXw
+");
 sqarlex2.login("sqarlex token 2");
 sqarlex3.login("sqarlex token 3");
 sqarlex4.login("sqarlex token 4");
